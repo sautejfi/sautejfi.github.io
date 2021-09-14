@@ -15,7 +15,7 @@
 
     <nav>
       <ul>
-        <li><a href="./html.html">HTML</a></li>
+        <li><a href="./page1.html">HTML</a></li>
         <li><a href="./page2.html">JS</a></li>
         <li><a href="./page3.html">PHP</a></li>
 	<li><a href="./page4.html">Vue</a></li>
